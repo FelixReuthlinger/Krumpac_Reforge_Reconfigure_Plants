@@ -1,0 +1,82 @@
+# Hay
+D_Hay_Sapling:
+  name: $D_Hay_Bush
+  growTime: 2000
+  growRadius: 0.65
+  minScale: 0.9
+  maxScale: 1.1
+  needCultivatedGround: true
+  destroyIfCantGrow: true
+
+# Cotton
+Krump_Plant_Cotton_Sapling:
+  name: $Krump_Plant_Cotton_Sapling
+  growTime: 2000
+  growRadius: 0.7
+  minScale: 0.9
+  maxScale: 1.1
+  needCultivatedGround: true
+  destroyIfCantGrow: true
+D_Cotton_Sapling:
+  name: $D_Cotton_bush
+  growTime: 2000
+  growRadius: 0.7
+  minScale: 0.9
+  maxScale: 1.1
+  needCultivatedGround: true
+  destroyIfCantGrow: true
+
+# Raspberry
+D_QRaspberry_Sapling:
+  name: $D_QRaspberry_Sapling
+  growTime: 2000
+  growRadius: 0.7
+  minScale: 0.9
+  maxScale: 1.1
+  needCultivatedGround: true
+  destroyIfCantGrow: true
+D_Raspberry_Sapling:
+  name: $D_Raspberry_bush
+  growTime: 2000
+  growRadius: 0.7
+  minScale: 0.9
+  maxScale: 1.1
+  needCultivatedGround: true
+  destroyIfCantGrow: true
+
+# Blueberry
+D_Blueberry_Sapling:
+  name: $D_Blueberry_bush
+  growTime: 2000
+  growRadius: 0.7
+  minScale: 0.9
+  maxScale: 1.1
+  needCultivatedGround: true
+  destroyIfCantGrow: true
+D_QBlueberry_Sapling:
+  name: $D_QBlueberry_Sapling
+  growTime: 2000
+  growRadius: 0.7
+  minScale: 0.9
+  maxScale: 1.1
+  needCultivatedGround: true
+  destroyIfCantGrow: true
+
+# Blackberry
+D_Blackberry_Sapling:
+  name: $D_Blackberrybush
+  growTime: 2000
+  growRadius: 0.7
+  minScale: 0.9
+  maxScale: 1.1
+  needCultivatedGround: true
+  destroyIfCantGrow: true
+D_QBlackberry_Sapling:
+  name: D_bigBlackberrybush
+  growTime: 2000
+  growRadius: 0.7
+  minScale: 0.9
+  maxScale: 1.1
+  needCultivatedGround: true
+  destroyIfCantGrow: true
+

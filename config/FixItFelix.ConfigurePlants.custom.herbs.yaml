@@ -1,0 +1,126 @@
+# Lavender
+D_Levander_Sapling:
+  name: $D_Levander
+  growTime: 4000
+  growRadius: 0.100000001
+  minScale: 0.899999976
+  maxScale: 1.10000002
+  needCultivatedGround: true
+  destroyIfCantGrow: true
+D_Levander_Seed_Sapling:
+  name: $D_Levander_Seeds
+  growTime: 4000
+  growRadius: 0.100000001
+  minScale: 0.899999976
+  maxScale: 1.10000002
+  needCultivatedGround: true
+  destroyIfCantGrow: true
+
+# Dandelion
+D_Dandelion_Sapling:
+  name: $D_Dandelion
+  growTime: 4000
+  growRadius: 0.5
+  minScale: 0.899999976
+  maxScale: 1.10000002
+  needCultivatedGround: true
+  destroyIfCantGrow: true
+D_QDandelion_Sapling:
+  name: $D_Pickable_QDandelion
+  growTime: 4000
+  growRadius: 0.5
+  minScale: 0.899999976
+  maxScale: 1.10000002
+  needCultivatedGround: true
+  destroyIfCantGrow: true
+
+# Rosemary
+D_Rosemary_Sapling:
+  name: $D_Rosemary
+  growTime: 2000
+  growRadius: 0.7
+  minScale: 0.9
+  maxScale: 1.1
+  needCultivatedGround: true
+  destroyIfCantGrow: true
+D_Rosemary_Seed_Sapling:
+  name: $D_Rosemary_Seeds
+  growTime: 2000
+  growRadius: 0.7
+  minScale: 0.9
+  maxScale: 1.1
+  needCultivatedGround: true
+  destroyIfCantGrow: true
+
+# Chervil
+D_Chervil_Sapling:
+  name: $D_Chervil
+  growTime: 2000
+  growRadius: 0.7
+  minScale: 0.9
+  maxScale: 1.1
+  needCultivatedGround: true
+  destroyIfCantGrow: true
+D_Chervil_Seed_Sapling:
+  name: $D_Chervil_Seeds
+  growTime: 2000
+  growRadius: 0.7
+  minScale: 0.9
+  maxScale: 1.1
+  needCultivatedGround: true
+  destroyIfCantGrow: true
+
+# Chives
+D_Chives_Sapling:
+  name: $D_Chives
+  growTime: 2000
+  growRadius: 0.7
+  minScale: 0.9
+  maxScale: 1.1
+  needCultivatedGround: true
+  destroyIfCantGrow: true
+D_Chives_SeedSapling:
+  name: $D_Chives_Seeds
+  growTime: 2000
+  growRadius: 0.7
+  minScale: 0.9
+  maxScale: 1.1
+  needCultivatedGround: true
+  destroyIfCantGrow: true
+
+# Erigeron
+D_Erigeron_Sapling:
+  name: $D_Erigeron
+  growTime: 2000
+  growRadius: 0.7
+  minScale: 0.9
+  maxScale: 1.1
+  needCultivatedGround: true
+  destroyIfCantGrow: true
+D_Erigeron_Seed_Sapling:
+  name: $D_Erigeron_Seeds
+  growTime: 2000
+  growRadius: 0.7
+  minScale: 0.9
+  maxScale: 1.1
+  needCultivatedGround: true
+  destroyIfCantGrow: true
+
+# Catharanthus
+D_Catharanthus_Sapling:
+  name: $D_Catharanthus
+  growTime: 2000
+  growRadius: 0.7
+  minScale: 0.9
+  maxScale: 1.1
+  needCultivatedGround: true
+  destroyIfCantGrow: true
+D_Catharanthus_Seed_Sapling:
+  name: $D_Catharanthus_Seeds
+  growTime: 2000
+  growRadius: 0.7
+  minScale: 0.9
+  maxScale: 1.1
+  needCultivatedGround: true
+  destroyIfCantGrow: true
+

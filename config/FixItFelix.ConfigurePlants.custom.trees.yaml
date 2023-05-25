@@ -1,0 +1,89 @@
+# Walnut tree
+D_small_Walnut_Sapling:
+  name: $D_Walnut_Tree_small
+  growTime: 2000
+  growRadius: 1.5
+  minScale: 0.9
+  maxScale: 1.1
+  needCultivatedGround: false
+  destroyIfCantGrow: true
+D_Walnut_Sapling:
+  name: $D_Walnut_Tree
+  growTime: 2000
+  growRadius: 1.5
+  minScale: 0.9
+  maxScale: 1.1
+  needCultivatedGround: false
+  destroyIfCantGrow: true
+
+# Plum tree
+D_small_Plum_Sapling:
+  name: $D_small_Plum_tree
+  growTime: 2000
+  growRadius: 1.5
+  minScale: 0.9
+  maxScale: 1.1
+  needCultivatedGround: false
+  destroyIfCantGrow: true
+D_Plum_Sapling:
+  name: $D_Plum_tree
+  growTime: 2000
+  growRadius: 1.5
+  minScale: 0.9
+  maxScale: 1.1
+  needCultivatedGround: false
+  destroyIfCantGrow: true
+
+# Orange tree
+D_smallOrange_Sapling:
+  name: $D_Orange_small_tree
+  growTime: 2000
+  growRadius: 1.5
+  minScale: 0.9
+  maxScale: 1.1
+  needCultivatedGround: false
+  destroyIfCantGrow: true
+D_Orange_Sapling:
+  name: $D_Orange_tree
+  growTime: 2000
+  growRadius: 1.5
+  minScale: 0.9
+  maxScale: 1.1
+  needCultivatedGround: false
+  destroyIfCantGrow: true
+
+# Apple tree
+D_small_Apple_Sapling:
+  name: $D_small_Apple_tree
+  growTime: 2000
+  growRadius: 1.5
+  minScale: 0.9
+  maxScale: 1.1
+  needCultivatedGround: false
+  destroyIfCantGrow: true
+D_Apple_Sapling:
+  name: $D_Apple_tree
+  growTime: 2000
+  growRadius: 1.5
+  minScale: 0.9
+  maxScale: 1.1
+  needCultivatedGround: false
+  destroyIfCantGrow: true
+
+# Lemon tree
+D_smallLemon_Sapling:
+  name: $D_Lemon_Tree_small
+  growTime: 2000
+  growRadius: 1.5
+  minScale: 0.9
+  maxScale: 1.1
+  needCultivatedGround: false
+  destroyIfCantGrow: true
+D_Lemon_Sapling:
+  name: $D_Lemon_Tree
+  growTime: 2000
+  growRadius: 1.5
+  minScale: 0.9
+  maxScale: 1.1
+  needCultivatedGround: false
+  destroyIfCantGrow: true
