@@ -6,7 +6,7 @@ D_small_Walnut_Sapling:
   minScale: 0.9
   maxScale: 1.1
   needCultivatedGround: false
-  destroyIfCantGrow: true
+  destroyIfCantGrow: false
 D_Walnut_Sapling:
   name: $D_Walnut_Tree
   growTime: 2000
@@ -14,7 +14,7 @@ D_Walnut_Sapling:
   minScale: 0.9
   maxScale: 1.1
   needCultivatedGround: false
-  destroyIfCantGrow: true
+  destroyIfCantGrow: false
 
 # Plum tree
 D_small_Plum_Sapling:
@@ -24,7 +24,7 @@ D_small_Plum_Sapling:
   minScale: 0.9
   maxScale: 1.1
   needCultivatedGround: false
-  destroyIfCantGrow: true
+  destroyIfCantGrow: false
 D_Plum_Sapling:
   name: $D_Plum_tree
   growTime: 2000
@@ -32,7 +32,7 @@ D_Plum_Sapling:
   minScale: 0.9
   maxScale: 1.1
   needCultivatedGround: false
-  destroyIfCantGrow: true
+  destroyIfCantGrow: false
 
 # Orange tree
 D_smallOrange_Sapling:
@@ -42,7 +42,7 @@ D_smallOrange_Sapling:
   minScale: 0.9
   maxScale: 1.1
   needCultivatedGround: false
-  destroyIfCantGrow: true
+  destroyIfCantGrow: false
 D_Orange_Sapling:
   name: $D_Orange_tree
   growTime: 2000
@@ -50,7 +50,7 @@ D_Orange_Sapling:
   minScale: 0.9
   maxScale: 1.1
   needCultivatedGround: false
-  destroyIfCantGrow: true
+  destroyIfCantGrow: false
 
 # Apple tree
 D_small_Apple_Sapling:
@@ -60,7 +60,7 @@ D_small_Apple_Sapling:
   minScale: 0.9
   maxScale: 1.1
   needCultivatedGround: false
-  destroyIfCantGrow: true
+  destroyIfCantGrow: false
 D_Apple_Sapling:
   name: $D_Apple_tree
   growTime: 2000
@@ -68,7 +68,7 @@ D_Apple_Sapling:
   minScale: 0.9
   maxScale: 1.1
   needCultivatedGround: false
-  destroyIfCantGrow: true
+  destroyIfCantGrow: false
 
 # Lemon tree
 D_smallLemon_Sapling:
@@ -78,7 +78,7 @@ D_smallLemon_Sapling:
   minScale: 0.9
   maxScale: 1.1
   needCultivatedGround: false
-  destroyIfCantGrow: true
+  destroyIfCantGrow: false
 D_Lemon_Sapling:
   name: $D_Lemon_Tree
   growTime: 2000
@@ -86,4 +86,4 @@ D_Lemon_Sapling:
   minScale: 0.9
   maxScale: 1.1
   needCultivatedGround: false
-  destroyIfCantGrow: true
+  destroyIfCantGrow: false

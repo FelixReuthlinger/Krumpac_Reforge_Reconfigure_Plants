@@ -6,7 +6,7 @@ D_Hay_Sapling:
   minScale: 0.9
   maxScale: 1.1
   needCultivatedGround: true
-  destroyIfCantGrow: true
+  destroyIfCantGrow: false
 
 # Cotton
 Krump_Plant_Cotton_Sapling:
@@ -16,7 +16,7 @@ Krump_Plant_Cotton_Sapling:
   minScale: 0.9
   maxScale: 1.1
   needCultivatedGround: true
-  destroyIfCantGrow: true
+  destroyIfCantGrow: false
 D_Cotton_Sapling:
   name: $D_Cotton_bush
   growTime: 2000
@@ -24,7 +24,7 @@ D_Cotton_Sapling:
   minScale: 0.9
   maxScale: 1.1
   needCultivatedGround: true
-  destroyIfCantGrow: true
+  destroyIfCantGrow: false
 
 # Raspberry
 D_QRaspberry_Sapling:
@@ -34,7 +34,7 @@ D_QRaspberry_Sapling:
   minScale: 0.9
   maxScale: 1.1
   needCultivatedGround: true
-  destroyIfCantGrow: true
+  destroyIfCantGrow: false
 D_Raspberry_Sapling:
   name: $D_Raspberry_bush
   growTime: 2000
@@ -42,7 +42,7 @@ D_Raspberry_Sapling:
   minScale: 0.9
   maxScale: 1.1
   needCultivatedGround: true
-  destroyIfCantGrow: true
+  destroyIfCantGrow: false
 
 # Blueberry
 D_Blueberry_Sapling:
@@ -52,7 +52,7 @@ D_Blueberry_Sapling:
   minScale: 0.9
   maxScale: 1.1
   needCultivatedGround: true
-  destroyIfCantGrow: true
+  destroyIfCantGrow: false
 D_QBlueberry_Sapling:
   name: $D_QBlueberry_Sapling
   growTime: 2000
@@ -60,7 +60,7 @@ D_QBlueberry_Sapling:
   minScale: 0.9
   maxScale: 1.1
   needCultivatedGround: true
-  destroyIfCantGrow: true
+  destroyIfCantGrow: false
 
 # Blackberry
 D_Blackberry_Sapling:
@@ -70,7 +70,7 @@ D_Blackberry_Sapling:
   minScale: 0.9
   maxScale: 1.1
   needCultivatedGround: true
-  destroyIfCantGrow: true
+  destroyIfCantGrow: false
 D_QBlackberry_Sapling:
   name: D_bigBlackberrybush
   growTime: 2000
@@ -78,5 +78,5 @@ D_QBlackberry_Sapling:
   minScale: 0.9
   maxScale: 1.1
   needCultivatedGround: true
-  destroyIfCantGrow: true
+  destroyIfCantGrow: false
 
