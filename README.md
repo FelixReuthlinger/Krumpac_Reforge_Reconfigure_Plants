@@ -2,6 +2,8 @@
 
 This mod serves some configs for some of the custom plants in [Reforge mod pack](https://valheim.thunderstore.io/package/Krumpac/Krumpac_Reforge_Core/). You can use it as is or also change some values to your preferred values.
 
+**WARNING**: this mod is made for use with the Krumpac Reforge modpack only, it includes dependencies to Reforge mods that contain PREMIUM-ONLY features.
+
 ## Features
 
 * Using [ConfigurePlants](https://valheim.thunderstore.io/package/FixItFelix/ConfigurePlants/)
