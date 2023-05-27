@@ -1,36 +1,36 @@
 # Lavender
 D_Levander_Sapling:
   name: $D_Levander
-  growTime: 4000
-  growRadius: 0.100000001
-  minScale: 0.899999976
-  maxScale: 1.10000002
+  growTime: 2000
+  growRadius: 0.7
+  minScale: 0.9
+  maxScale: 1.1
   needCultivatedGround: true
   destroyIfCantGrow: false
 D_Levander_Seed_Sapling:
   name: $D_Levander_Seeds
-  growTime: 4000
-  growRadius: 0.100000001
-  minScale: 0.899999976
-  maxScale: 1.10000002
+  growTime: 2000
+  growRadius: 0.7
+  minScale: 0.9
+  maxScale: 1.1
   needCultivatedGround: true
   destroyIfCantGrow: false
 
 # Dandelion
 D_Dandelion_Sapling:
   name: $D_Dandelion
-  growTime: 4000
-  growRadius: 0.5
-  minScale: 0.899999976
-  maxScale: 1.10000002
+  growTime: 2000
+  growRadius: 0.7
+  minScale: 0.9
+  maxScale: 1.1
   needCultivatedGround: true
   destroyIfCantGrow: false
 D_QDandelion_Sapling:
   name: $D_Pickable_QDandelion
-  growTime: 4000
-  growRadius: 0.5
-  minScale: 0.899999976
-  maxScale: 1.10000002
+  growTime: 2000
+  growRadius: 0.7
+  minScale: 0.9
+  maxScale: 1.1
   needCultivatedGround: true
   destroyIfCantGrow: false
 
