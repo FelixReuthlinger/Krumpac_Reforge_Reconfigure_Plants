@@ -56,7 +56,7 @@ D_Rosemary_Seed_Sapling:
 D_Chervil_Sapling:
   name: $D_Chervil
   growTime: 2000
-  growRadius: 0.7
+  growRadius: 0.85
   minScale: 0.9
   maxScale: 1.1
   needCultivatedGround: true
@@ -64,7 +64,7 @@ D_Chervil_Sapling:
 D_Chervil_Seed_Sapling:
   name: $D_Chervil_Seeds
   growTime: 2000
-  growRadius: 0.7
+  growRadius: 0.85
   minScale: 0.9
   maxScale: 1.1
   needCultivatedGround: true
