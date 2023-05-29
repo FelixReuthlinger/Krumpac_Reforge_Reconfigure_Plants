@@ -1,7 +1,7 @@
 {
   "name": "Krumpac_Reforge_Reconfigure_Plants",
   "description": "Auxilliary/optional mod for Reforge, changing some plant values.",
-  "version_number": "1.0.6",
+  "version_number": "1.0.7",
   "website_url": "https://github.com/FelixReuthlinger/Krumpac_Reforge_Reconfigure_Plants",
   "dependencies": [
     "FixItFelix-ConfigurePlants-1.1.0",
