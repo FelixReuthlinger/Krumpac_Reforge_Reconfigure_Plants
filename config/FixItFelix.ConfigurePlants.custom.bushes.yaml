@@ -12,7 +12,7 @@ D_Hay_Sapling:
 Krump_Plant_Cotton_Sapling:
   name: $Krump_Plant_Cotton_Sapling
   growTime: 2000
-  growRadius: 0.85
+  growRadius: 1.0
   minScale: 0.9
   maxScale: 1.1
   needCultivatedGround: true
@@ -20,7 +20,7 @@ Krump_Plant_Cotton_Sapling:
 D_Cotton_Sapling:
   name: $D_Cotton_bush
   growTime: 2000
-  growRadius: 0.85
+  growRadius: 1.0
   minScale: 0.9
   maxScale: 1.1
   needCultivatedGround: true

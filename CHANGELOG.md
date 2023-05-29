@@ -1,3 +1,4 @@
+* 1.0.6 -> improved Cotton Bush grow radius
 * 1.0.5 -> improved Chervil grow radius
 * 1.0.4 -> forgot some herbs & updated dependency
 * 1.0.3 -> more space for the cotton bushes
